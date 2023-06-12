@@ -1,0 +1,5 @@
+#include "Compras.h"
+#include "Ventas.h"
+#include "Herramientas.h"
+#include "Persona.h"
+#include "Inventario.h"
